@@ -1,0 +1,18 @@
+img{
+  
+  width: 70vw;
+  height: 70vh;
+  margin-top: 40px;
+}
+.container{
+  width: 100vw;
+  height: 50vh;
+ 
+}
+.name{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  font-size: large;
+}
